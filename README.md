@@ -1,6 +1,6 @@
 ## Olá, Me chamo Gustavo e sou um novato na área de desenvolvimento 👋
 
-### - 🌱 Atualmente estou estudando Java
+### - 🌱 Atualmente estou estudando Java/Javascript
 ### - 📖 Formação: Concluindo Ensino Médio/Técnico (IFRN)
 <br>
 
