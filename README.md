@@ -4,7 +4,7 @@
 ### - 📖 Formação: Concluindo Ensino Médio/Técnico (IFRN)
 <br>
 
-<a href="https://github.com/Guga-alm/github-readme-stats">
+<a href="https://github.com/Guga-alm/github-readme-stats&theme=vision-friendly-dark">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Guga-alm&theme=dark" />
 </a>
 <a href="https://github.com/Guga-alm/convoychat">
